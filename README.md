@@ -1,2 +1,2 @@
 # word-cloud
-<img src="https://ibb.co/nCGFMjx">
+<img src="https://i.ibb.co/xHkNq6x/name.png">
